@@ -8,7 +8,7 @@ from flask_cors import CORS  # ADD THIS - enables mobile app connection
 import sys
 
 # ==================== CONFIG ====================
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "YOURAPIKEY" # Change this api key
 LOCAL_MODEL = "microsoft/phi-2"
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 
