@@ -1,0 +1,9 @@
+# EcoRoute AI Backend Requirements
+
+
+flask>=2.0.0
+flask-cors>=4.0.0
+requests>=2.28.0
+torch>=2.0.0
+transformers>=4.30.0
+
